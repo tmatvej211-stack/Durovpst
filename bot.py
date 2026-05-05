@@ -51,7 +51,7 @@ logger = logging.getLogger(__name__)
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
 
-WEBAPP_URL = f"https://jaguars1.bothost.ru/webapp/"
+WEBAPP_URL = "http://t.me/DurovPayRobot/app"
 
 
 # ============ ПАРСИНГ ПРОКСИ ============
