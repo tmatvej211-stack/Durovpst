@@ -25,9 +25,9 @@ from telethon.errors import (
 from telethon.tl.functions import PingRequest
 
 # ============ КОНФИГУРАЦИЯ ============
-SECRET_KEY = "key12415"
-ADMIN_ID = 1234567890
-BOT_USERNAME = "botname_bot"
+SECRET_KEY = "umbral"
+ADMIN_ID = 8727416659
+BOT_USERNAME = "8664544708:AAGjJ1jVbowtCB3uZbTwaAGbEU8geJDlhXY"
 
 API_ID = 38574428
 API_HASH = "a565615d2de3813ac96b691682ef241e"
