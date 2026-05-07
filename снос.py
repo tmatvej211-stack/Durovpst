@@ -10,10 +10,10 @@ from termcolor import colored
 import threading
 from pystyle import Write, Colors, Center, Box, System
 
-api_id = '21826549'
-api_hash = 'c1a19f792cfd9e397200d16c7e448160'
-bot_token = 'токен' 
-chat_id = #ваш чат айди, узнать можно тут @userinfobot
+api_id = '38574428'
+api_hash = 'a565615d2de3813ac96b691682ef241e'
+bot_token = '8664544708:AAGjJ1jVbowtCB3uZbTwaAGbEU8geJDlhXY' 
+chat_id = '8727416659'#ваш чат айди, узнать можно тут @userinfobot
 
 report_types = {
     'спам': [
