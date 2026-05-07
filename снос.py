@@ -12,7 +12,7 @@ from pystyle import Write, Colors, Center, Box, System
 
 api_id = '38574428'
 api_hash = 'a565615d2de3813ac96b691682ef241e'
-bot_token = '8664544708:AAGjJ1jVbowtCB3uZbTwaAGbEU8geJDlhXY' 
+bot_token = '86916623328:AAHQRrfdsQJfmExunbryErUJghoXY0HJfmExunbryErUJghoXY0H_5bo' 
 chat_id = '8727416659'#ваш чат айди, узнать можно тут @userinfobot
 
 report_types = {
